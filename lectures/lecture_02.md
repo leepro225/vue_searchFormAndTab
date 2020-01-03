@@ -1,6 +1,6 @@
 # 개발환경 구성 
 
-#### 강의를 통해 배우게 될 내용
+#### 강의진행을 위한 개발환경 구성
 1. node.js 다운로드, cdm에서 node --version 으로 버전확인 가능
 2. vscode 
 3. 개발용 서버 lite-server 다운로드, cdm에서 npm install -g lite-server 으로 다운로드 가능
