@@ -7,6 +7,6 @@ toy-project making search form and tab with vue.js
 | :-- | :-------------------------------------------------------------------------------- | :----------- | :------------------------------------------------------ | :--- |
 | 1 | 20200102 | 강의준비 | [강의 소개](https://github.com/leepro225/vue_searchFormAndTab/blob/master/lectures/lecture_01.md) | |
 | 2 | 20200103 | 강의준비 | [개발환경 구성](https://github.com/leepro225/vue_searchFormAndTab/blob/master/lectures/lecture_02.md) | |
-| 3 | 20200103 | 강의준비 | [요구사항 분석](https://github.com/leepro225/vue_searchFormAndTab/blob/master/lectures/lecture_03.md) | |
+| 3 | 20200103 | 강의준비 | [요구사항 분석하기](https://github.com/leepro225/vue_searchFormAndTab/blob/master/lectures/lecture_03.md) | |
 | 4 | 20200104 | 순수JS(MVC) | [MVC 패턴 설명](https://github.com/leepro225/vue_searchFormAndTab/blob/master/lectures/lecture_04.md) | |
 | 5 | 20200106 | 순수JS(MVC) | [폴더 구조](https://github.com/leepro225/vue_searchFormAndTab/blob/master/lectures/lecture_05.md) | |
